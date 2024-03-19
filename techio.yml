@@ -1,0 +1,82 @@
+title : La courbe du Dragon
+plan:
+  - title: La courbe du Dragon - Introduction
+    statement: markdowns/welcome.md
+  - title: La courbe du Dragon - niveau 1, un "L"
+    statement: markdowns/step1.md
+  - title: La courbe du Dragon - niveau 2
+    statement: markdowns/step2.md
+  - title: La courbe du Dragon - niveau 3
+    statement: markdowns/step3.md
+  - title: La courbe du Dragon - niveau 4
+    statement: markdowns/step4.md
+  - title: La courbe du Dragon - niveau 5, 6, 7, ..., 15, ... ?
+    statement: markdowns/step5To15.md
+  - title: La courbe du Dragon - Programmation - 1
+    statement: markdowns/prog1.md
+  - title: La courbe du Dragon - Programmation - 2
+    statement: markdowns/prog2.md
+  - title: La courbe du Dragon - Programmation - 3
+    statement: markdowns/prog3.md
+  - title: La courbe du Dragon - Programmation - 4
+    statement: markdowns/prog4.md
+  - title: La courbe du Dragon - Programmation - 5
+    statement: markdowns/prog5.md
+  - title: La courbe du Dragon - Programmation - 6
+    statement: markdowns/prog6.md
+  - title: La courbe du Dragon - Quelques propriétés en vidéo
+    statement: markdowns/vidz.md
+  - title: Réponses aux questions
+    statement: markdowns/reps.md
+ 
+projects:
+  drawing_dragon_1:
+    root: "/c_dragon_1"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  drawing_dragon_2:
+    root: "/c_dragon_2"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  drawing_dragon_3:
+    root: "/c_dragon_3"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  drawing_dragon_4:
+    root: "/c_dragon_4"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  drawing_dragon_5:
+    root: "/c_dragon_5"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  drawing_dragon_6:
+    root: "/c_dragon_6"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  drawing_dragon_7:
+    root: "/c_dragon_7"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  drawing_dragon_8:
+    root: "/c_dragon_8"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  drawing_dragon_9:
+    root: "/c_dragon_9"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  drawing_dragon_curve:
+    root: "/c_dragon"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
