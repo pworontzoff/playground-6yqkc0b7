@@ -42,7 +42,7 @@ Combien de virages a fait la fourmi ?
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, le nombre de virages, toujours au niveau 1, sous "nombre de virages : " ! 
+Noter maintenant le nombre de virages, sur la 2e feuille au niveau 2, sous "nombre de virages : " !
 
 <br><br>
 
@@ -58,4 +58,4 @@ En supposant que la bandelette de feuille fait 0,1mm d'épaisseur et 20cm en lon
 
 <br>
 
-Ajouter maintenant sur la 2e feuille les dimensions de la bandelette pliée (calculs et réponses), toujours au niveau 1, sous "épaisseur feuille pliée : " et sous "et longueur : " !
+Noter maintenant les dimensions de la bandelette ainsi pliée (calculs et réponses), sur la 2e feuille au niveau 1, sous "épaisseur feuille pliée : " et sous "et longueur : " !
