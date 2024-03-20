@@ -23,9 +23,14 @@ Ensuite, on doit lire à l'envers (de droite à gauche) le chemin précédent et
 
 <br><br>
 
+NB : Cette méthode pour générer un chemin à partir du précédent sera intégrée à notre programme par la suite, mais elle est un peu trop complexe à faire ici.
+
+<br><br>
+
+
 ## Dessiner avec du code : un segment de droite
 
-Amusons-nous maintenant à dessiner avec du code !
+Laissons quelques instants de côté la courbe du dragon et amusons-nous maintenant à dessiner avec du code !
 
 Ce que nous allons faire maintenant est très simple : faire tracer un segment de droite grâce à notre petit programme ci-dessous !
 
