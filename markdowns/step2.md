@@ -36,7 +36,7 @@ Est-ce le dessin que vous avez deviné ? ;-)
 
 <br>
 
-Imaginez de nouveau une fourmi qui part de la gommette bleue et qui parcoure le long de la tranche pour arriver à l'autre bout de la feuille !
+Imaginez de nouveau une fourmi qui part de la gommette bleue et qui parcourt le long de la tranche pour arriver à l'autre bout de la feuille !
 
 Elle part tout droit, puis quel sera son chemin ? Elle tourne (chaque fois d'1/4 de tour) vers ... ?
 
