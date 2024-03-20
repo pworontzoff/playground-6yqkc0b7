@@ -12,7 +12,7 @@ Refaisons les mêmes étapes (marquez bien fort le nouveau pli !), qu'obtient-on
 
 <br>
 
-Imaginez de nouveau une fourmi qui part de la gommette bleue et qui parcoure le long de la tranche pour arriver à l'autre bout de la feuille, quel sera son chemin ? Elle tourne (chaque fois d'1/4 de tour) vers ... ?
+Imaginez de nouveau une fourmi qui part de la gommette bleue et qui parcourt le long de la tranche pour arriver à l'autre bout de la feuille, quel sera son chemin ? Elle tourne (chaque fois d'1/4 de tour) vers ... ?
 
 <br>
 
@@ -28,7 +28,7 @@ Combien de virages a fait la fourmi ?
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, toujours au niveau 3 : "nombre de virages : " puis indiquez le nombe correct ! 
+Noter maintenant le nombre de virages, sur la 2e feuille au niveau 4, sous "nombre de virages : " !
 
 <br><br>
 
@@ -36,8 +36,8 @@ Ajouter maintenant sur la 2e feuille, toujours au niveau 3 : "nombre de virages 
 
 <br>
 
-Puisqu'au niveau précédent, la bandelette de feuille faisait 0,8mm d'épaisseur et 2,625cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
+Puisqu'au niveau précédent, la bandelette de feuille faisait 0,8mm d'épaisseur et 2,5cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, toujours au niveau 3 : "épaisseur feuille pliée : " puis indiquez le calcul correct, puis "et longueur : " et indiquer le calcul correct !
+Noter maintenant les dimensions de la bandelette ainsi pliée (calculs et réponses), sur la 2e feuille au niveau 4, sous "épaisseur feuille pliée : " et sous "et longueur : " !
