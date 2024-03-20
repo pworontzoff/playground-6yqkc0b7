@@ -80,7 +80,7 @@ On peut également faire faire un virage vers la gauche à notre fourmi en écri
 turn(90,LEFT);
 ```
 
-Notons que le dessin effectué à cet étape ressemble à une marche d'escalier.
+Notons que le dessin effectué à cette étape ressemble à une marche d'escalier.
 
 <br><br>
 
