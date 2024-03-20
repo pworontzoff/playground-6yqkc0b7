@@ -93,7 +93,7 @@ repeat(2) {
 } loop;
 ```
 
-Allons-y ! à nous de jouer...
+Allons-y ! à nous de jouer... Transformons le programme suivant pour qu'il utilise une boucle !
 
 ## 2 marches d'escalier en boucle
 
