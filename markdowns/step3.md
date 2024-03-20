@@ -24,7 +24,7 @@ Mais aidons-nous de notre matériel et de l'expérience ! Déplions-la feuille e
 
 <br>
 
-Imaginez de nouveau une fourmi qui part de la gommette bleue et qui parcoure le long de la tranche pour arriver à l'autre bout de la feuille !
+Imaginez de nouveau une fourmi qui part de la gommette bleue et qui parcourt le long de la tranche pour arriver à l'autre bout de la feuille !
 
 <br>
 
@@ -52,7 +52,7 @@ Ajouter maintenant sur la 2e feuille, toujours au niveau 3 : "nombre de virages 
 
 <br>
 
-Puisqu'au niveau précédent, la bandelette de feuille faisait 0,4mm d'épaisseur et 5,25cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
+Puisqu'au niveau précédent, la bandelette de feuille faisait 0,4mm d'épaisseur et 5cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
 
 <br>
 
