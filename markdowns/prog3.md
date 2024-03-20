@@ -93,6 +93,8 @@ repeat(2) {
 } loop;
 ```
 
+Allons-y ! à nous de jouer...
+
 ## 2 marches d'escalier en boucle
 
 @[drawing_dragon_5]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_5"})
