@@ -34,6 +34,8 @@ Laissons quelques instants de côté la courbe du dragon et amusons-nous mainten
 
 Ce que nous allons faire maintenant est très simple : faire tracer un segment de droite grâce à notre petit programme ci-dessous !
 
+NB: nous ne regarderons que la ligne 10 pour le moment, les autres sont des détails plus techniques.
+
 Voici le programme qui permet de le faire :
 
 @[drawing_dragon_1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_1"})
