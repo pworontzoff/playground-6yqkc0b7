@@ -1,6 +1,10 @@
 # La Courbe du dragon - niveau 5, 6, 7, ..., 15, ... ?
 
-https://www.dropbox.com/s/4harhnzpahpch1c/41%20Iteration%20Dragon%20Curve%20Zoom%20Test.mp4?raw=1
+<video width="320" height="240" controls>
+  <source src="https://www.dropbox.com/s/4harhnzpahpch1c/41%20Iteration%20Dragon%20Curve%20Zoom%20Test.mp4?raw=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 
 La feuille de papier devient de plus en plus difficile à plier (et à déplier à angle droits) !
 
