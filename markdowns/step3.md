@@ -44,7 +44,7 @@ Combien de virages a fait la fourmi ?
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, toujours au niveau 3 : "nombre de virages : " puis indiquez le nombe correct ! 
+Noter maintenant le nombre de virages, sur la 2e feuille au niveau 3, sous "nombre de virages : " ! 
 
 <br><br>
 
@@ -56,4 +56,4 @@ Puisqu'au niveau précédent, la bandelette de feuille faisait 0,4mm d'épaisseu
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, toujours au niveau 3 : "épaisseur feuille pliée : " puis indiquez le calcul correct, puis "et longueur : " et indiquer le calcul correct !
+Noter maintenant les dimensions de la bandelette ainsi pliée (calculs et réponses), sur la 2e feuille au niveau 3, sous "épaisseur feuille pliée : " et sous "et longueur : " !
