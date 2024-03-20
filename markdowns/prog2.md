@@ -58,7 +58,7 @@ Qui peut dire ce qu'est un pixel ?
 
 ## Dessiner avec du code : deux segments de droites
 
-Voici maintenant un programme qui fait tracer un segment de droite vers la droite **, puis fait un virage vers la droite de 90° (1/4 de tour) et ensuite trace à nouveau un segment de droite de 100 pixels (vers le bas, donc !)** : 
+Voici maintenant un programme qui fait tracer un segment vers la droite **, puis fait un virage vers la droite de 90° (1/4 de tour) et ensuite trace un nouveau un segment de 100 pixels (vers le bas, donc !)** : 
 
 @[drawing_dragon_2]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_2"})
 
