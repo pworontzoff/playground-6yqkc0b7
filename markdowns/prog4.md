@@ -145,7 +145,7 @@ i = i + 1;
 
 Toutes les infos sont plus haut, il faut utiliser tout ça correctement pour terminer un programme capable de dessiner une courbe du dragon.
 
-NB: en lignes 27 et 28, nous avons ajoutés les instructions :
+NB: en lignes 28 et 29, nous avons ajoutés les instructions :
 
 ```C
 turn(90,RIGHT);
