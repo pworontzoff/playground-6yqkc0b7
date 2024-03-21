@@ -19,7 +19,13 @@ Notre courbe du dragon est une fractale.
 
 Si on zoome ou qu'on dézoome dans la courbe du Dragon, on voit les mêmes formes revenir. Voici un exemple avec une courbe du dragon de niveau 41 :
 
-https://www.youtube.com/watch?v=J7IKKzzApg8
+<!--https://www.youtube.com/watch?v=J7IKKzzApg8-->
+
+<video controls>
+  <source src="https://www.dropbox.com/s/4harhnzpahpch1c/41%20Iteration%20Dragon%20Curve%20Zoom%20Test.mp4?raw=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 
 ([Dropbox mp4](https://www.dropbox.com/s/4harhnzpahpch1c/41%20Iteration%20Dragon%20Curve%20Zoom%20Test.mp4?dl=0))
 
