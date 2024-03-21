@@ -43,6 +43,8 @@ Et nous pouvons en fait en déduire :
 
 - niveau n / nombre de virages : 2<sup>n</sup>-1
 
+<br><br>
+
 Cela est dû au fait qu'à chaque étape de construction de la courbe on plie la bandelette déjà pliée en 2 et donc on double le nombre d'apaisseurs :
 
 - au départ (niveau 0), il y a 0 pli et 1 épaisseur à plier pour la prochaine étape
@@ -61,6 +63,8 @@ Ce qui nous donne, en résumé :
 - Au niveau 4, il y a 15&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;16&nbsp;épaisseurs
 ...
 - Au niveau n, il y a 2<sup>n</sup>-1&nbsp;plis&nbsp;et&nbsp;2<sup>n</sup>&nbsp;épaisseurs
+
+<br><br>
 
 En langage C, on peut calculer 2<sup>n</sup>-1 en écrivant le code suivant :
 
