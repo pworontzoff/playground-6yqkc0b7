@@ -2,4 +2,4 @@
 
 # https://hepl.be/fr/jpo
 
-![JPO](img/JPO.png) 
+![JPO](img/jpo.png) 
