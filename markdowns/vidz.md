@@ -51,7 +51,7 @@ Voici une vidéo qui le montre :
 <!-- https://www.youtube.com/watch?v=-sad-hmgZIs -->
 
 <video controls>
-  <source src="https://www.dropbox.com/s/4harhnzpahpch1c/41%20Iteration%20Dragon%20Curve%20Zoom%20Test.mp4?raw=1" type="video/mp4">
+  <source src="https://www.dropbox.com/s/59c39oenu9yxrcv/The%20Dragon%20Curve%20%28visual%20construction%3B%20plane%20tiling%29.mp4?raw=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
