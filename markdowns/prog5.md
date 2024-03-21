@@ -52,7 +52,7 @@ Cela est dû au fait qu'à chaque étape de construction de la courbe on plie la
 - Après avoir plié 2 fois (pour le niveau 2), il y a 1 + 2 = 3 plis et 4 épaisseurs à plier pour la prochaine étape
 - Après avoir plié 3 fois (pour le niveau 3), il y a 3 + 4 = 7 plis et 8 épaisseurs à plier pour la prochaine étape
 - Après avoir plié 4 fois (pour le niveau 4), il y a 7 + 8 = 15 plis et 16 épaisseurs à plier pour la prochaine étape
-...
+<br>...<br>
 
 Ce qui nous donne, en résumé : 
 
@@ -61,7 +61,7 @@ Ce qui nous donne, en résumé :
 - Au niveau 2,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;4&nbsp;&nbsp;épaisseurs
 - Au niveau 3,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;8&nbsp;&nbsp;épaisseurs
 - Au niveau 4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;15&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;16&nbsp;épaisseurs
-...
+<br>...<br>
 - Au niveau n,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;2<sup>n</sup>-1&nbsp;plis&nbsp;et&nbsp;2<sup>n</sup>&nbsp;épaisseurs
 
 <br><br>
