@@ -3,7 +3,7 @@
 #include "drawing.h"
 
 #define LARGEUR 740
-#define HAUTEUR 460
+#define HAUTEUR 510
 
 int main() {
 	init_drawing(LARGEUR,HAUTEUR);
