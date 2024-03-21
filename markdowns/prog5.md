@@ -56,11 +56,11 @@ Cela est dû au fait qu'à chaque étape de construction de la courbe on plie la
 
 Ce qui nous donne, en résumé : 
 
-- Au niveau 0 (au départ), il y a&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pli&nbsp;&nbsp;et&nbsp;1&nbsp;&nbsp;épaisseur
-- Au niveau 1,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pli&nbsp;&nbsp;et&nbsp;2&nbsp;&nbsp;épaisseurs
-- Au niveau 2,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;4&nbsp;&nbsp;épaisseurs
-- Au niveau 3,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;8&nbsp;&nbsp;épaisseurs
-- Au niveau 4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;16&nbsp;épaisseurs
+- Au niveau 0 (au départ), il y a&nbsp;0&nbsp;pli&nbsp;et&nbsp;1&nbsp;épaisseur
+- Au niveau 1,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;1&nbsp;&nbsp;pli&nbsp;&nbsp;et&nbsp;2&nbsp;&nbsp;épaisseurs
+- Au niveau 2,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;3&nbsp;&nbsp;plis&nbsp;et&nbsp;4&nbsp;&nbsp;épaisseurs
+- Au niveau 3,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;7&nbsp;&nbsp;plis&nbsp;et&nbsp;8&nbsp;&nbsp;épaisseurs
+- Au niveau 4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;15&nbsp;plis&nbsp;et&nbsp;16&nbsp;épaisseurs
 ...
 - Au niveau n, il&nbsp;y&nbsp;a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>n</sup>-1&nbsp;plis&nbsp;et&nbsp;2<sup>n</sup>&nbsp;épaisseurs
 
