@@ -9,10 +9,10 @@
 Dans ce programme que nous avons complété avec succès, il y a une des premières ligne qui est :
 
 ```C
-#define COURBE_NIVEAU 1
+#define COURBE_NIVEAU 4
 ```
 
-Nous pouvons changer le `1` et essayer successivement les valeurs 2, 3, 4, ..., 15 !
+Nous pouvons changer le `4` et choisir une des valeurs 1, 2, 3, 4, ..., 15 !
 
 Selon les performances de l'apperail qui exécute la courbe du dragon, on peut même pousser jusqu'au niveau 16, mais au delà, le programme est trop long pour le serveur et n'affichera malheureusement pas de résultats...
 
