@@ -62,7 +62,7 @@ Ce qui nous donne, en résumé :
 - Au niveau 3,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;7&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;8&nbsp;&nbsp;épaisseurs
 - Au niveau 4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;15&nbsp;plis&nbsp;et&nbsp;16&nbsp;épaisseurs
 ...
-- Au niveau n,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>n</sup>-1&nbsp;plis&nbsp;et&nbsp;2<sup>n</sup>&nbsp;épaisseurs
+- Au niveau n,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il&nbsp;y&nbsp;a&nbsp;2<sup>n</sup>-1&nbsp;plis&nbsp;et&nbsp;2<sup>n</sup>&nbsp;épaisseurs
 
 <br><br>
 
