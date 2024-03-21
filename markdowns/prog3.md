@@ -107,6 +107,16 @@ Quand c'est réussi, pourquoi pas 10 marches ? Allons-y !
 
 ## 10 marches d'escalier en boucle
 
+![Attention](img/attention.jpg) 
+
+Pour que notre escalier ne sorte pas de la feuille, nous dessinerons des segments de droites plus courts (25 pixels au lieu de 100) :
+
+Avec :
+
+```C
+draw(25);
+```
+
 ![10Marches](img/10Marches.png) 
 
 @[drawing_dragon_6]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_6"})
@@ -115,14 +125,3 @@ Quand c'est réussi, pourquoi pas 10 marches ? Allons-y !
 
 *NB : si vous obtenez l'erreur "Unable to open static viewer" ou si rien ne s'affiche, ce n'est pas grave, il faut juste insister sur le bouton "run" (ou "success") et ça devrait finir par fonctionner.*
 
-![Attention](img/attention.jpg) 
-
-Si votre escalier sort de la feuille, il suffit de dessiner des segments de droites plus courts :
-
-Avec :
-
-```C
-draw(50);
-```
-
-Nos segments de droites seront de 50 pixels (deux fois plus courts.)
