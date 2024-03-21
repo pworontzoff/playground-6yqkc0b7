@@ -58,7 +58,7 @@ Ce qui nous donne, en résumé :
 
 - Au départ (niveau 0), il y a&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pli&nbsp;&nbsp;et&nbsp;1&nbsp;&nbsp;épaisseur
 - Au niveau 1, il y a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pli&nbsp;&nbsp;et&nbsp;2&nbsp;&nbsp;épaisseurs
-- Au niveau 2, il y a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;4&nbsp;épaisseurs
+- Au niveau 2, il y a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;4&nbsp;&nbsp;épaisseurs
 - Au niveau 3, il y a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;8&nbsp;&nbsp;épaisseurs
 - Au niveau 4, il y a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;16&nbsp;épaisseurs
 ...
