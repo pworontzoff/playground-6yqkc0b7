@@ -56,7 +56,7 @@ Cela est dû au fait qu'à chaque étape de construction de la courbe on plie la
 
 Ce qui nous donne, en résumé : 
 
-- Au départ (niveau 0), il y a&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;pli&nbsp;&nbsp;et&nbsp;1&nbsp;&nbsp;épaisseur
+- Au départ (niveau 0), il y a&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pli&nbsp;&nbsp;et&nbsp;1&nbsp;&nbsp;épaisseur
 - Au niveau 1, il y a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pli&nbsp;&nbsp;et&nbsp;2&nbsp;&nbsp;épaisseurs
 - Au niveau 2, il y a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;4&nbsp;épaisseurs
 - Au niveau 3, il y a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;8&nbsp;&nbsp;épaisseurs
