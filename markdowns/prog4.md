@@ -38,7 +38,7 @@ Dans ce programme, nous avons toujours 10 marches d'escaliers, mais nous avons �
 
 init_dragon();
 
-qui permet de construire une liste de nombres 0 ou 1 qui indiquent s'ils faut tourner à gauche ou à droite.
+qui permet de construire une liste de nombres 0 ou 1 qui indiquent s'il faut tourner à gauche ou à droite.
 
 On peut le voir comme une suite de 'D' ou de 'G' pour indiquer à la fourmi s'il faut tourner de 90° vers sa gauche ou vers sa droite.
 
