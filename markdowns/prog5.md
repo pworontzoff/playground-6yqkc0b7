@@ -55,12 +55,12 @@ Cela est dû au fait qu'à chaque étape de construction de la courbe on plie la
 Ce qui nous donne, en résumé : 
 
 - au départ (niveau 0), il y a 0 pli et 1 épaisseur
-- Au niveau 1, il y a 1    pli  et 2  épaisseurs
-- Au niveau 2, il y a 3    plis et 4  épaisseurs
-- Au niveau 3, il y a 7    plis et 8  épaisseurs
-- Au niveau 4, il y a 15   plis et 16 épaisseurs
+- Au niveau 1, il y a 1&nbsp;&nbsp;&nbsp;&nbsp;pli&nbsp;&nbsp;et&nbsp;2&nbsp;&nbsp;épaisseurs
+- Au niveau 2, il y a 3&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;4&nbsp;épaisseurs
+- Au niveau 3, il y a 7&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;8&nbsp;&nbsp;épaisseurs
+- Au niveau 4, il y a 15&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;16&nbsp;épaisseurs
 ...
-- Au niveau n, il y a 2<sup>n</sup>-1 plis et 2<sup>n</sup> épaisseurs
+- Au niveau n, il y a 2<sup>n</sup>-1&nbsp;plis&nbsp;et&nbsp;2<sup>n</sup>&nbsp;épaisseurs
 
 En langage C, on peut calculer 2<sup>n</sup>-1 en écrivant le code suivant :
 
