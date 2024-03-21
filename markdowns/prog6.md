@@ -24,5 +24,5 @@ Vous l'avez bien mérité !!
 
 ![applause](img/applause.gif) 
 
-![diplome](img/diplome.PNG) 
+![diplome](img/diplomeStV.PNG) 
 
