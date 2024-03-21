@@ -120,7 +120,7 @@ turn(90,LEFT);
 
 ## La fin de la boucle
 
-Ensuite nous pourrons tracer un segment de droite d'une lonqueur adaptée avec l'instruction :
+Ensuite nous pourrons tracer un segment de droite d'une longueur adaptée avec l'instruction :
 
 ```C
 draw(longueur_segment);
