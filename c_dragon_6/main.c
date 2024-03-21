@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include "drawing.h"
 
-#define LARGEUR 1200
-#define HAUTEUR 1200
+#define LARGEUR 740
+#define HAUTEUR 400
 
 int main() {
 	init_drawing(LARGEUR,HAUTEUR);
