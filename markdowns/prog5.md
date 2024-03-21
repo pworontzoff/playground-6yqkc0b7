@@ -47,7 +47,7 @@ Et nous pouvons en fait en déduire :
 
 Cela est dû au fait qu'à chaque étape de construction de la courbe on plie la bandelette déjà pliée en 2 et donc on double le nombre d'apaisseurs :
 
-- au départ (niveau 0), il y a 0 pli et 1 épaisseur à plier pour la prochaine étape
+- Au départ (niveau 0), il y a 0 pli et 1 épaisseur à plier pour la prochaine étape
 - Après avoir plié 1 fois (pour le niveau 1), il y a 1 pli et 2 épaisseurs à plier pour la prochaine étape
 - Après avoir plié 2 fois (pour le niveau 2), il y a 1 + 2 = 3 plis et 4 épaisseurs à plier pour la prochaine étape
 - Après avoir plié 3 fois (pour le niveau 3), il y a 3 + 4 = 7 plis et 8 épaisseurs à plier pour la prochaine étape
@@ -56,7 +56,7 @@ Cela est dû au fait qu'à chaque étape de construction de la courbe on plie la
 
 Ce qui nous donne, en résumé : 
 
-- au départ (niveau 0), il y a 0 pli et 1 épaisseur
+- Au départ (niveau 0), il y a 0 pli et 1 épaisseur
 - Au niveau 1, il y a 1&nbsp;&nbsp;&nbsp;&nbsp;pli&nbsp;&nbsp;et&nbsp;2&nbsp;&nbsp;épaisseurs
 - Au niveau 2, il y a 3&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;4&nbsp;épaisseurs
 - Au niveau 3, il y a 7&nbsp;&nbsp;&nbsp;&nbsp;plis&nbsp;et&nbsp;8&nbsp;&nbsp;épaisseurs
