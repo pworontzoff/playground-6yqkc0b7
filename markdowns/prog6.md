@@ -14,7 +14,7 @@ Dans ce programme que nous avons complété avec succès, il y a une des premiè
 
 Nous pouvons changer le `4` et choisir une des valeurs 1, 2, 3, 4, ..., 15 !
 
-Selon les performances de l'apperail qui exécute la courbe du dragon, on peut même pousser jusqu'au niveau 16, mais au delà, le programme est trop long pour le serveur et n'affichera malheureusement pas de résultats...
+Selon les performances de l'appareil qui exécute la courbe du dragon, on peut même pousser jusqu'au niveau 16, mais au delà, le programme est trop long pour le serveur et n'affichera malheureusement pas de résultats...
 
 C'était notre but, nous allons pouvoir admirer le dragon à l'étape 15 (avec plus de 32000 virages !)
 
