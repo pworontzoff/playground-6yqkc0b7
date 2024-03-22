@@ -32,7 +32,7 @@ Et ça marcherait ! :-)
 
 Nous pouvons heureusement calculer le nombre exact de virages nécéssaires en fonction du niveau de la courbe.
 
-Nous avons en effet noté sur norte feuille :
+Nous avons en effet noté sur notre feuille de réponses :
 
 - niveau 1 / nombre de virages : 1
 - niveau 2 / nombre de virages : 3
