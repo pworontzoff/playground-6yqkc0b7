@@ -70,7 +70,7 @@ Noter maintenant le nombre de virages, sur la feuille de réponses, au niveau 2,
 
 <br>
 
-Puisqu'au niveau précédent, la bandelette de feuille faisait 0,2mm d'épaisseur et 10cm de long, quelle est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
+Puisqu'au niveau précédent, la bandelette faisait 0,2mm d'épaisseur et 10cm de long, quelle est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
 
 <br><br>
 
