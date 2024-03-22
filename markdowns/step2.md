@@ -78,4 +78,4 @@ Puisqu'au niveau précédent, la bandelette faisait 0,2mm d'épaisseur et 10cm d
 
 <br>
 
-Noter maintenant les dimensions de la bandelette ainsi pliée (calculs et réponses), sur la feuille de réponses au niveau 2, sous "épaisseur feuille pliée : " et sous "et longueur : " !
+Noter maintenant les dimensions de la bandelette ainsi pliée (calculs et réponses), sur la feuille de réponses au niveau 2, sous "épaisseur : " et sous "longueur : "
