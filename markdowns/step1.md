@@ -50,7 +50,7 @@ Noter maintenant le nombre de virages, sur la feuille de réponses au niveau 1, 
 
 <br>
 
-En supposant que la bandelette de feuille fait 0,1mm d'épaisseur et 20cm en longueur, quel est l'épaisseur et quelle est la longueur de la bandelette pliée en 2 ?
+En supposant que la bandelette de papier fait 0,1mm d'épaisseur et 20cm en longueur, quel est l'épaisseur et quelle est la longueur de la bandelette pliée en 2 ?
 
 <br><br>
 
