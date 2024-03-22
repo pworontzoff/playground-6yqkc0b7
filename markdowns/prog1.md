@@ -10,7 +10,7 @@
 
 ## Comment programmer la courbe du dragon ?
 
-Nous pouvons utiliser de la programmation pour dessiner des segments de droites consécutifs avec des angles de 90°.
+Nous pouvons utiliser de la programmation pour dessiner des segments de droites qui se suivent avec des angles de 90°.
 
 ![CourbeDragonNiveau1](img/CourbeNiv1.PNG) 
 
