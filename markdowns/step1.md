@@ -42,7 +42,7 @@ Combien de virages a fait la fourmi ?
 
 <br>
 
-Noter maintenant le nombre de virages, sur la feuille de réponses au niveau 1, sous "nombre de virages : " !
+Noter maintenant le nombre de virages, sur la feuille de réponses au niveau 1, sous "nombre de virages : "
 
 <br><br>
 
