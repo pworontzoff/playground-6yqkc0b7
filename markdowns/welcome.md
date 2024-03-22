@@ -12,7 +12,7 @@ Nous pouvons utiliser une bandelette de papier vue de sa tranche pour construire
 
 ![BandePapierTranche](img/bandePapierTranche.png)
 
-(Feuille de papier vue de sa tranche = segment de droite)
+(Bandelette de papier vue de sa tranche = segment de droite)
 
 <br><br>
 
