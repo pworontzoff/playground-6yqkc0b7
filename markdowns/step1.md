@@ -4,8 +4,8 @@
 
 <br>
 
-1) Plier la feuille à angle droit et
-2) tenir la feuille devant soi, vue de la tranche, 
+1) Plier la bandelette à angle droit et
+2) tenir la bandelette devant soi, vue de la tranche, 
 3) ensuite pivoter votre bandelette de manière à voir un "L" (vu d'en haut) :
 
 ![Etape1](img/step1.png) 
@@ -16,7 +16,7 @@
 
 <br>
 
-Imaginez une fourmi qui part de la gommette bleue en haut du "L" et qui parcourt le long de la tranche pour arriver à l'autre bout de la feuille !
+Imaginez une fourmi qui part de la gommette bleue en haut du "L" et qui parcourt le long de la tranche pour arriver à l'autre bout de la bandelette !
 
 Elle part tout droit, puis tourne d'1/4 de tour vers SA gauche ou vers SA droite ?
 
@@ -26,7 +26,7 @@ Elle part tout droit, puis tourne d'1/4 de tour vers SA gauche ou vers SA droite
 
 <br>
 
-Tracer maintenant sur la feuille fournie ("Atelier Dragon : Feuille de réponses") dans "niveau 1 :", le "L" obtenu, puis indiquez à côté le chemin de la fourmi **en notant "G" pour "Gauche" et "D" pour "Droite"**
+Avec votre crayon fourni, tracer maintenant sur la feuille fournie ("Atelier Dragon : Feuille de réponses") dans "niveau 1 :", le "L" obtenu, puis indiquez à côté le chemin de la fourmi **en notant "G" pour "Gauche" et "D" pour "Droite"**
 
 <br><br>
 
