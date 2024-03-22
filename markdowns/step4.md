@@ -1,4 +1,4 @@
-# La Courbe du dragon - niveau 4 (4 plis)
+# La Courbe du dragon - niveau 4 (4 pliages)
 
 ## Manip
 
