@@ -6,7 +6,7 @@
 
 
 
-Replier complètement la bandelette de papier, puis plier à nouveau TOUJOURS DE LA MEME MANIERE (**en rabattant la droite vers la gauche par en haut**) en 2 parties égales comme les fois précédente.
+Replier complètement la bandelette de papier, puis plier à nouveau TOUJOURS DE LA MEME MANIERE (**en rabattant la droite vers la gauche par en haut**) en 2 parties égales comme les fois précédentes.
 
 <br>
 
