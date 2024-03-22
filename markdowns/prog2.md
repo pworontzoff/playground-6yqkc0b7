@@ -17,7 +17,7 @@ niveau 3 : `GGD G GDD`
 <br>
 niveau 4 : `GGDGGDD` G GGDDGDD
 <br><br>
-Ensuite, on a (toujours un "G" qui correspond au tout premier pli effectué)
+Ensuite, on a (toujours un "G" qui correspond au tout premier pli effectué, le "pli du milieu")
 <br><br>
 Ensuite, on doit lire à l'envers (de droite à gauche) le chemin précédent et inverser les G et les D et on obtient la deuxième moitié du chemin !
 
