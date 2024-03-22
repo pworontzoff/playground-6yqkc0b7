@@ -52,6 +52,8 @@ Replier la gommette bleue pour que celle-ci se colle de l'autre côté :
 
 Plier la bandelette en 2 de manière à ramener le côté droit sur le côté gauche (avec la gommette bleue)
 
+NB : **ATTENTION : Il faut bien veiller à rabattre la droite vers la gauche PAR EN HAUT !**
+
 ![Prepa3](img/prepa3.png)
 
 ## Préparation - 4
