@@ -26,7 +26,7 @@ Elle part tout droit, puis tourne d'1/4 de tour vers SA gauche ou vers SA droite
 
 <br>
 
-Notez maintenant sur la feuille fournie ("Atelier Dragon : Feuille de réponses") : "niveau 1 :" puis tracez le "L" obtenu, puis indiquez le chemin de la fourmi **en notant "G" pour "Gauche" et "D" pour "Droite"**
+Tracer maintenant sur la feuille fournie ("Atelier Dragon : Feuille de réponses") dans "niveau 1 :", le "L" obtenu, puis indiquez à côté le chemin de la fourmi **en notant "G" pour "Gauche" et "D" pour "Droite"**
 
 <br><br>
 
