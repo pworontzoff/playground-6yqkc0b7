@@ -58,4 +58,4 @@ En supposant que la bandelette de papier fait 0,1mm d'épaisseur et 20cm en long
 
 <br>
 
-Noter maintenant les dimensions de la bandelette ainsi pliée (calculs et réponses), sur la feuille de réponses au niveau 1, sous "épaisseur feuille pliée : " et sous "et longueur : " !
+Noter maintenant les dimensions de la bandelette ainsi pliée (calculs et réponses), sur la feuille de réponses au niveau 1, sous "épaisseur : " et sous "longueur : "
