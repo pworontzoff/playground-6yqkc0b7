@@ -36,7 +36,7 @@ Si on zoome ou qu'on dézoome dans la courbe du Dragon, on voit les mêmes forme
 
 <video controls>
   <source src="https://www.dropbox.com/s/4harhnzpahpch1c/41%20Iteration%20Dragon%20Curve%20Zoom%20Test.mp4?raw=1" type="video/mp4">
-Your browser does not support the video tag.
+Your browser does not support the video tag
 </video>
 
 
