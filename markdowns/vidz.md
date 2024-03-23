@@ -6,7 +6,12 @@ Une fractale est un contour identique que l'on retrouve à différentes échelle
 
 C'est comme si on regardait un objet au microscope agrandit 100 fois et qu'on retrouvait la forme de cet objet. Puis on agrandit à nouveau 1000 fois, et on voit à nouveau cette forme, et ainsi de suite à l'infini !
 
-Par exemple, je regarde une fourmi au microscope et je constate que son contour est composé de plein de formes de fourmis, alors je décide d'en cibler une et de l'agrandir, et je constate que c'est pareil, et que ça se reproduit à l'infini.
+Par exemple, je peux imaginer créer une grande image à partir d'une mosaïque de petites images. Et si je zoome sur une de ces petites images, je m'aperçois que c'est une mosaïque constiuée de ces mêmes plus petites images, etc.
+
+Autre exemple :
+
+&nbsp;
+
 
 Dans la nature, les choux romanesco, les vaissaux sanguins, certaines fougères, etc. ont des formes fractales (mais finies).
 
