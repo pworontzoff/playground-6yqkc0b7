@@ -11,9 +11,15 @@ Par exemple, je peux imaginer créer une grande image à partir d'une mosaïque 
 Autre exemple :
 
 ```
-&nbsp;V
+V             V
+ V           V
+  V         V
+   V       V
+    v     V
+     V   V
+      V V
+       V
 ```
-
 
 Dans la nature, les choux romanesco, les vaissaux sanguins, certaines fougères, etc. ont des formes fractales (mais finies).
 
