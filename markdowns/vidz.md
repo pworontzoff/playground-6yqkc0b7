@@ -83,10 +83,7 @@ NB: On peut également voir dans cette vidéo qu'on utilise une autre méthode (
 
 On peut toujours s'améliorer ! Vos avis / idées seront très bien accueillies ! Merci d'avance à vous !
 
-Questionnaire [Wooclap](https://app.wooclap.com/auth/login?lang=fr&redirectTo=/home/info) de satisfaction :  A votre avis sans calculer, quelle serait l'épaisseur et la longueur de la bandelette de feuille pliée 53 fois et combien de virages y aurait-il ?
-
-
-[>> Remplir le questionnaire](https://app.wooclap.com/DRAGON1HEPL?from=event-page)
+Questionnaire [Wooclap](https://app.wooclap.com/auth/login?lang=fr&redirectTo=/home/info) de satisfaction :  [>> Remplir le questionnaire](https://app.wooclap.com/DRAGON1HEPL?from=event-page)
 
 <br>
 
