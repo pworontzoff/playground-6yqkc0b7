@@ -74,3 +74,19 @@ Your browser does not support the video tag.
 ([Dropbox mp4](https://www.dropbox.com/s/59c39oenu9yxrcv/The%20Dragon%20Curve%20%28visual%20construction%3B%20plane%20tiling%29.mp4?dl=0))
 
 NB: On peut également voir dans cette vidéo qu'on utilise une autre méthode (plus géométrique) pour construire la courbe.
+
+<br>
+
+# Merci pour vos feedbacks :-)
+
+<br>
+
+On peut toujours s'améliorer ! Vos avis / idées seront très bien acceuillies ! Merci d'avance à vous !
+
+Questionnaire [Wooclap](https://app.wooclap.com/auth/login?lang=fr&redirectTo=/home/info) de satisfaction :  A votre avis sans calculer, quelle serait l'épaisseur et la longueur de la bandelette de feuille pliée 53 fois et combien de virages y aurait-il ?
+
+
+[>> Remplir le questionnaire](https://app.wooclap.com/DRAGON1HEPL?from=event-page)
+
+<br>
+
