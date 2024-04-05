@@ -52,4 +52,4 @@ Réponse... voire page suivante !
 
 ## (*) Réponse
 
-Épaisseur : environ 3m20 / longueur : environ 6 micron, c'est 10 fois plus fin qu'un cheveu (invisible à l'oeil nu) !
+Épaisseur : environ 3m20 / longueur : environ 6 microns, c'est 10 fois plus fin qu'un cheveu (invisible à l'oeil nu) !
