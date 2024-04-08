@@ -1,6 +1,6 @@
 # La Courbe du dragon - programmation 2 - dessiner une deuxième marche d'escalier
 
-## Réponse à la question pécédente
+## Réponse à la question précédente
 
 ```
 niveau 1 :         G
