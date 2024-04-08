@@ -1,5 +1,11 @@
 # La Courbe du dragon
 
+**BONJOUR A TOUS !**
+
+**POUR PARTICIPER A L'ATELIER ET CONSTRUIRE UNE COURBE DU DRAGON, C'EST ICI :**
+
+ https://tech.io/playgrounds/142260/
+
 ## Introduction
 
 <br>
